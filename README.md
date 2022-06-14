@@ -6,4 +6,4 @@
 #  2) Download geko driver for Chrome here:
 #     https://sites.google.com/a/chromium.org/chromedriver/downloads
 #  2) Run tests:
-#     pytest tests.py
+#     pytest test.py
